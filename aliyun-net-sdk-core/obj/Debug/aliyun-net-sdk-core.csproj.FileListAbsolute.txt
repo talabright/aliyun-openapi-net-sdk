@@ -1,0 +1,7 @@
+E:\workspace\git\易企办项目\aliyun-openapi-net-sdk\aliyun-net-sdk-core\bin\Debug\Regions\endpoints.xml
+E:\workspace\git\易企办项目\aliyun-openapi-net-sdk\aliyun-net-sdk-core\bin\Debug\aliyun-net-sdk-core.dll
+E:\workspace\git\易企办项目\aliyun-openapi-net-sdk\aliyun-net-sdk-core\bin\Debug\aliyun-net-sdk-core.pdb
+E:\workspace\git\易企办项目\aliyun-openapi-net-sdk\aliyun-net-sdk-core\obj\Debug\aliyun-net-sdk-core.csproj.CoreCompileInputs.cache
+E:\workspace\git\易企办项目\aliyun-openapi-net-sdk\aliyun-net-sdk-core\obj\Debug\aliyun-net-sdk-core.dll
+E:\workspace\git\易企办项目\aliyun-openapi-net-sdk\aliyun-net-sdk-core\obj\Debug\aliyun-net-sdk-core.pdb
+E:\workspace\git\易企办项目\aliyun-openapi-net-sdk\aliyun-net-sdk-core\obj\Debug\aliyun-net-sdk-core.csprojResolveAssemblyReference.cache
